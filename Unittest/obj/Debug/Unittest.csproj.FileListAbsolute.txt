@@ -1,0 +1,24 @@
+E:\ปี3\Softdef\Coffee\Unittest\obj\Debug\Unittest.csprojAssemblyReference.cache
+E:\ปี3\Softdef\Coffee\Unittest\obj\Debug\Unittest.csproj.CoreCompileInputs.cache
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\Unittest.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\Unittest.pdb
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\Coffee.exe
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\MongoDB.Driver.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\MongoDB.Bson.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\MongoDB.Driver.Core.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\Coffee.pdb
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\Coffee.exe.config
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\obj\Debug\Unittest.csprojAssemblyReference.cache
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\obj\Debug\Unittest.csproj.CoreCompileInputs.cache
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\obj\Debug\Unittest.csproj.CopyComplete
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\obj\Debug\Unittest.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Unittest\obj\Debug\Unittest.pdb

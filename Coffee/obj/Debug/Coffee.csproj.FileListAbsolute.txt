@@ -1,0 +1,1300 @@
+D:\Coffee\Adminstrator\source\repos\Coffee\Coffee\bin\Debug\Coffee.exe.config
+D:\Coffee\Adminstrator\source\repos\Coffee\Coffee\bin\Debug\Coffee.exe
+D:\Coffee\Adminstrator\source\repos\Coffee\Coffee\bin\Debug\Coffee.pdb
+D:\Coffee\Adminstrator\source\repos\Coffee\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+D:\Coffee\Adminstrator\source\repos\Coffee\Coffee\obj\Debug\Coffee.Form1.resources
+D:\Coffee\Adminstrator\source\repos\Coffee\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+D:\Coffee\Adminstrator\source\repos\Coffee\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+D:\Coffee\Adminstrator\source\repos\Coffee\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+D:\Coffee\Adminstrator\source\repos\Coffee\Coffee\obj\Debug\Coffee.exe
+D:\Coffee\Adminstrator\source\repos\Coffee\Coffee\obj\Debug\Coffee.pdb
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\Coffee.exe.config
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\Coffee.exe
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\Coffee.pdb
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\System.Data.Common.dll
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\System.Diagnostics.Tracing.dll
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\System.Globalization.Extensions.dll
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\System.IO.Compression.dll
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\System.Net.Http.dll
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\System.Net.Sockets.dll
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\System.Security.SecureString.dll
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\System.Threading.Overlapped.dll
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\MongoDB.Bson.dll
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\MongoDB.Driver.Core.dll
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\MongoDB.Driver.dll
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\MongoDB.Driver.GridFS.dll
+E:\ปี3\Softdef\Coffee\Coffee\bin\Debug\MongoDB.Driver.Legacy.dll
+E:\ปี3\Softdef\Coffee\Coffee\obj\Debug\Coffee.exe.config
+E:\ปี3\Softdef\Coffee\Coffee\obj\Debug\Coffee.Form1.resources
+E:\ปี3\Softdef\Coffee\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+E:\ปี3\Softdef\Coffee\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+E:\ปี3\Softdef\Coffee\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+E:\ปี3\Softdef\Coffee\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+E:\ปี3\Softdef\Coffee\Coffee\obj\Debug\Coffee.exe
+E:\ปี3\Softdef\Coffee\Coffee\obj\Debug\Coffee.pdb
+E:\ปี3\Softdef\Coffee\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+D:\Downloads\Coffee\Coffee\bin\Debug\Coffee.exe.config
+D:\Downloads\Coffee\Coffee\bin\Debug\Coffee.exe
+D:\Downloads\Coffee\Coffee\bin\Debug\Coffee.pdb
+D:\Downloads\Coffee\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+D:\Downloads\Coffee\Coffee\obj\Debug\Coffee.Form1.resources
+D:\Downloads\Coffee\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+D:\Downloads\Coffee\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+D:\Downloads\Coffee\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+D:\Downloads\Coffee\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+D:\Downloads\Coffee\Coffee\obj\Debug\Coffee.exe
+D:\Downloads\Coffee\Coffee\obj\Debug\Coffee.pdb
+D:\Downloads\Coffee\Coffee\obj\Debug\Coffee.formShop.resources
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\Coffee.exe.config
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\Coffee.exe
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\Coffee.pdb
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Data.Common.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Diagnostics.Tracing.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Globalization.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.IO.Compression.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Net.Http.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Net.Sockets.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Security.SecureString.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Threading.Overlapped.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\MongoDB.Bson.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\MongoDB.Driver.Core.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\MongoDB.Driver.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\MongoDB.Driver.GridFS.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\bin\Debug\MongoDB.Driver.Legacy.dll
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.exe.config
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.Form1.resources
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.formShop.resources
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.exe
+E:\ปี3\Softdef\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.pdb
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\Coffee.exe.config
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\Coffee.exe
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\Coffee.pdb
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Data.Common.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.IO.Compression.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Net.Http.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Net.Sockets.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Security.SecureString.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\MongoDB.Bson.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\MongoDB.Driver.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\MongoDB.Driver.GridFS.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.exe.config
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.Form1.resources
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.formShop.resources
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.exe
+C:\Users\roxzy\Desktop\coffeeSofDevG1.2-master\Coffee\obj\Debug\Coffee.pdb
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\Coffee.exe.config
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\Coffee.exe
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\Coffee.pdb
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\System.Data.Common.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\System.Diagnostics.Tracing.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\System.Globalization.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\System.IO.Compression.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\System.Net.Http.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\System.Net.Sockets.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\System.Security.SecureString.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\System.Threading.Overlapped.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\MongoDB.Bson.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\MongoDB.Driver.Core.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\MongoDB.Driver.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\MongoDB.Driver.GridFS.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\bin\Debug\MongoDB.Driver.Legacy.dll
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.exe.config
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.formShop.resources
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.exe
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.pdb
+D:\Downloads\coffeeSofDevG1.3-master\Coffee\bin\Debug\Coffee.exe.config
+D:\Downloads\coffeeSofDevG1.3-master\Coffee\bin\Debug\Coffee.exe
+D:\Downloads\coffeeSofDevG1.3-master\Coffee\bin\Debug\Coffee.pdb
+D:\Downloads\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+D:\Downloads\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.formMain.resources
+D:\Downloads\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.formShop.resources
+D:\Downloads\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+D:\Downloads\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+D:\Downloads\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+D:\Downloads\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+D:\Downloads\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.exe
+D:\Downloads\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.pdb
+E:\ปี3\Softdef\coffeeSofDevG1.3-master\Coffee\obj\Debug\Coffee.formMain.resources
+D:\Downloads\coffeeSofDevG1.6-master\Coffee\bin\Debug\Coffee.exe.config
+D:\Downloads\coffeeSofDevG1.6-master\Coffee\bin\Debug\Coffee.exe
+D:\Downloads\coffeeSofDevG1.6-master\Coffee\bin\Debug\Coffee.pdb
+D:\Downloads\coffeeSofDevG1.6-master\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+D:\Downloads\coffeeSofDevG1.6-master\Coffee\obj\Debug\Coffee.formMain.resources
+D:\Downloads\coffeeSofDevG1.6-master\Coffee\obj\Debug\Coffee.formShop.resources
+D:\Downloads\coffeeSofDevG1.6-master\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+D:\Downloads\coffeeSofDevG1.6-master\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+D:\Downloads\coffeeSofDevG1.6-master\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+D:\Downloads\coffeeSofDevG1.6-master\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+D:\Downloads\coffeeSofDevG1.6-master\Coffee\obj\Debug\Coffee.exe
+D:\Downloads\coffeeSofDevG1.6-master\Coffee\obj\Debug\Coffee.pdb
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\Coffee.exe.config
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\Coffee.exe
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\Coffee.pdb
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\System.Data.Common.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\System.Diagnostics.Tracing.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\System.Globalization.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\System.IO.Compression.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\System.Net.Http.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\System.Net.Sockets.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\System.Security.SecureString.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\System.Threading.Overlapped.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\MongoDB.Bson.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\MongoDB.Driver.Core.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\MongoDB.Driver.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\MongoDB.Driver.GridFS.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\bin\Debug\MongoDB.Driver.Legacy.dll
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\obj\Debug\Coffee.exe.config
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\obj\Debug\Coffee.formMain.resources
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\obj\Debug\Coffee.formShop.resources
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\obj\Debug\Coffee.exe
+E:\ปี3\Softdef\coffeeSofDevG1.7-master\Coffee\obj\Debug\Coffee.pdb
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\Coffee.exe.config
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\Coffee.exe
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\Coffee.pdb
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Data.Common.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.IO.Compression.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Net.Http.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Net.Sockets.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Security.SecureString.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\MongoDB.Bson.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\MongoDB.Driver.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\MongoDB.Driver.GridFS.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.exe.config
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.formMain.resources
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.formShop.resources
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.exe
+C:\Users\roxzy\Desktop\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.pdb
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\Coffee.exe.config
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\Coffee.exe
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\Coffee.pdb
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Data.Common.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Diagnostics.Tracing.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Globalization.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.IO.Compression.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Net.Http.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Net.Sockets.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Security.SecureString.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Threading.Overlapped.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\MongoDB.Bson.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\MongoDB.Driver.Core.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\MongoDB.Driver.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\MongoDB.Driver.GridFS.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\bin\Debug\MongoDB.Driver.Legacy.dll
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.exe.config
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.formMain.resources
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.formShop.resources
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.exe
+E:\ปี3\Softdef\coffeeSofDevG1.8-master\Coffee\obj\Debug\Coffee.pdb
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\Coffee.exe.config
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\Coffee.exe
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\Coffee.pdb
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\obj\Debug\Coffee.exe.config
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\obj\Debug\Coffee.formMain.resources
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\obj\Debug\Coffee.formShop.resources
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\obj\Debug\Coffee.exe
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\obj\Debug\Coffee.pdb
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\netstandard.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.AppContext.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Collections.Concurrent.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Collections.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Collections.NonGeneric.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Collections.Specialized.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.ComponentModel.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.ComponentModel.Primitives.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Console.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Data.Common.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.Contracts.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.Debug.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.Process.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.Tools.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.Tracing.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Drawing.Primitives.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Dynamic.Runtime.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Globalization.Calendars.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Globalization.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Globalization.Extensions.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.IO.Compression.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.IO.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.IO.FileSystem.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.IO.IsolatedStorage.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.IO.Pipes.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Linq.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Linq.Expressions.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Linq.Parallel.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Linq.Queryable.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Net.Http.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Net.NameResolution.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Net.NetworkInformation.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Net.Ping.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Net.Primitives.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Net.Requests.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Net.Security.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Net.Sockets.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Net.WebSockets.Client.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Net.WebSockets.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.ObjectModel.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Reflection.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Reflection.Extensions.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Reflection.Primitives.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Resources.Reader.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Resources.ResourceManager.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Resources.Writer.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.Extensions.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.Handles.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.InteropServices.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.Numerics.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Security.Claims.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Security.Principal.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Security.SecureString.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Text.Encoding.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Text.RegularExpressions.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Threading.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Threading.Overlapped.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Threading.Tasks.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Threading.Thread.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Threading.ThreadPool.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Threading.Timer.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.ValueTuple.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Xml.ReaderWriter.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Xml.XDocument.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Xml.XmlDocument.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Xml.XmlSerializer.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Xml.XPath.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\MongoDB.Bson.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\MongoDB.Driver.Core.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\MongoDB.Driver.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\MongoDB.Driver.GridFS.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\bin\Debug\MongoDB.Driver.Legacy.dll
+E:\ปี3\Softdev\coffeeSofDevG2\Coffee\obj\Debug\Coffee.formPayment.resources
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\Coffee.exe.config
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\Coffee.exe
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\Coffee.pdb
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\obj\Debug\Coffee.exe.config
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\obj\Debug\Coffee.FormMain.resources
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\obj\Debug\Coffee.FormPayment.resources
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\obj\Debug\Coffee.FormShop.resources
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\obj\Debug\Coffee.exe
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\obj\Debug\Coffee.pdb
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\netstandard.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.AppContext.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Collections.Concurrent.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Collections.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Collections.NonGeneric.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Collections.Specialized.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.ComponentModel.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.ComponentModel.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Console.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Data.Common.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.Contracts.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.Debug.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.Process.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.Tools.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Diagnostics.Tracing.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Drawing.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Dynamic.Runtime.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Globalization.Calendars.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Globalization.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Globalization.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.IO.Compression.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.IO.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.IO.FileSystem.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.IO.IsolatedStorage.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.IO.Pipes.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Linq.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Linq.Expressions.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Linq.Parallel.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Linq.Queryable.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Net.Http.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Net.NameResolution.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Net.NetworkInformation.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Net.Ping.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Net.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Net.Requests.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Net.Security.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Net.Sockets.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Net.WebSockets.Client.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Net.WebSockets.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.ObjectModel.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Reflection.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Reflection.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Reflection.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Resources.Reader.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Resources.ResourceManager.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Resources.Writer.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.Handles.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.InteropServices.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.Numerics.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Security.Claims.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Security.Principal.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Security.SecureString.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Text.Encoding.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Text.RegularExpressions.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Threading.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Threading.Overlapped.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Threading.Tasks.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Threading.Thread.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Threading.ThreadPool.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Threading.Timer.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.ValueTuple.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Xml.ReaderWriter.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Xml.XDocument.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Xml.XmlDocument.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Xml.XmlSerializer.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Xml.XPath.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\MongoDB.Bson.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\MongoDB.Driver.Core.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\MongoDB.Driver.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\MongoDB.Driver.GridFS.dll
+E:\ปี3\Softdef\coffeeSofDevG2\Coffee\bin\Debug\MongoDB.Driver.Legacy.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\Coffee.exe.config
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\Coffee.exe
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\Coffee.pdb
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\netstandard.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.AppContext.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Collections.Concurrent.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Collections.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Collections.NonGeneric.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Collections.Specialized.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.ComponentModel.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.ComponentModel.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Console.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Data.Common.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Diagnostics.Contracts.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Diagnostics.Debug.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Diagnostics.Process.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Diagnostics.Tools.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Diagnostics.Tracing.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Drawing.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Dynamic.Runtime.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Globalization.Calendars.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Globalization.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Globalization.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.IO.Compression.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.IO.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.IO.FileSystem.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.IO.IsolatedStorage.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.IO.Pipes.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Linq.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Linq.Expressions.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Linq.Parallel.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Linq.Queryable.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Net.Http.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Net.NameResolution.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Net.NetworkInformation.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Net.Ping.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Net.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Net.Requests.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Net.Security.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Net.Sockets.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Net.WebSockets.Client.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Net.WebSockets.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.ObjectModel.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Reflection.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Reflection.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Reflection.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Resources.Reader.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Resources.ResourceManager.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Resources.Writer.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Runtime.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Runtime.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Runtime.Handles.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Runtime.InteropServices.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Runtime.Numerics.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Security.Claims.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Security.Principal.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Security.SecureString.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Text.Encoding.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Text.RegularExpressions.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Threading.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Threading.Overlapped.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Threading.Tasks.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Threading.Thread.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Threading.ThreadPool.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Threading.Timer.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.ValueTuple.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Xml.ReaderWriter.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Xml.XDocument.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Xml.XmlDocument.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Xml.XmlSerializer.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Xml.XPath.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\MongoDB.Bson.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\MongoDB.Driver.Core.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\MongoDB.Driver.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\MongoDB.Driver.GridFS.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\bin\Debug\MongoDB.Driver.Legacy.dll
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\obj\Debug\Coffee.exe.config
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\obj\Debug\Coffee.FormMain.resources
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\obj\Debug\Coffee.FormPayment.resources
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\obj\Debug\Coffee.FormShop.resources
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\obj\Debug\Coffee.exe
+E:\ปี3\Softdef\coffeeSofDevG2.1\Coffee\obj\Debug\Coffee.pdb
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\Coffee.exe.config
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\Coffee.exe
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\Coffee.pdb
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\netstandard.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.AppContext.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Collections.Concurrent.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Collections.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Collections.NonGeneric.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Collections.Specialized.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.ComponentModel.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.ComponentModel.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Console.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Data.Common.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.Contracts.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.Debug.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.Process.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.Tools.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.Tracing.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Drawing.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Dynamic.Runtime.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Globalization.Calendars.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Globalization.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Globalization.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.Compression.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.FileSystem.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.IsolatedStorage.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.Pipes.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Linq.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Linq.Expressions.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Linq.Parallel.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Linq.Queryable.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.Http.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.NameResolution.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.NetworkInformation.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.Ping.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.Requests.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.Security.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.Sockets.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.WebSockets.Client.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.WebSockets.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.ObjectModel.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Reflection.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Reflection.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Reflection.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Resources.Reader.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Resources.ResourceManager.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Resources.Writer.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.Handles.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.InteropServices.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.Numerics.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Security.Claims.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Security.Principal.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Security.SecureString.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Text.Encoding.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Text.RegularExpressions.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Threading.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Threading.Overlapped.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Threading.Tasks.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Threading.Thread.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Threading.ThreadPool.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Threading.Timer.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.ValueTuple.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Xml.ReaderWriter.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Xml.XDocument.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Xml.XmlDocument.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Xml.XmlSerializer.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Xml.XPath.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\MongoDB.Bson.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\MongoDB.Driver.Core.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\MongoDB.Driver.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\MongoDB.Driver.GridFS.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\bin\Debug\MongoDB.Driver.Legacy.dll
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.exe.config
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.FormMain.resources
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.FormPayment.resources
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.FormShop.resources
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.exe
+E:\ปี3\Softdef\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.pdb
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\Coffee.exe.config
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\Coffee.exe
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\Coffee.pdb
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.exe.config
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.FormMain.resources
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.FormPayment.resources
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.FormPromotions.resources
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.FormShop.resources
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.exe
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.pdb
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\netstandard.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.AppContext.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Collections.Concurrent.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Collections.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Collections.NonGeneric.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Collections.Specialized.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.ComponentModel.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.ComponentModel.Primitives.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Console.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Data.Common.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.Contracts.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.Debug.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.Process.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.Tools.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Diagnostics.Tracing.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Drawing.Primitives.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Dynamic.Runtime.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Globalization.Calendars.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Globalization.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Globalization.Extensions.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.Compression.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.FileSystem.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.IsolatedStorage.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.Pipes.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Linq.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Linq.Expressions.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Linq.Parallel.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Linq.Queryable.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.Http.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.NameResolution.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.NetworkInformation.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.Ping.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.Primitives.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.Requests.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.Security.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.Sockets.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.WebSockets.Client.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Net.WebSockets.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.ObjectModel.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Reflection.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Reflection.Extensions.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Reflection.Primitives.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Resources.Reader.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Resources.ResourceManager.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Resources.Writer.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.Extensions.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.Handles.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.InteropServices.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.Numerics.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Security.Claims.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Security.Principal.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Security.SecureString.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Text.Encoding.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Text.RegularExpressions.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Threading.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Threading.Overlapped.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Threading.Tasks.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Threading.Thread.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Threading.ThreadPool.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Threading.Timer.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.ValueTuple.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Xml.ReaderWriter.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Xml.XDocument.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Xml.XmlDocument.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Xml.XmlSerializer.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Xml.XPath.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\MongoDB.Bson.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\MongoDB.Driver.Core.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\MongoDB.Driver.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\MongoDB.Driver.GridFS.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\bin\Debug\MongoDB.Driver.Legacy.dll
+E:\ปี3\Softdef\test2\coffeeSofDevG2.2\Coffee\obj\Debug\Coffee.FormRegister.resources
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\Coffee.exe.config
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\Coffee.exe
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\Coffee.pdb
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.exe.config
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.FormMain.resources
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.FormPayment.resources
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.FormPromotions.resources
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.FormRegister.resources
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.FormShop.resources
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.exe
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.pdb
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\netstandard.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.AppContext.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Collections.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Collections.Specialized.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.ComponentModel.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Console.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Data.Common.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Globalization.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.Compression.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.FileSystem.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.Pipes.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Linq.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Linq.Expressions.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Linq.Parallel.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Linq.Queryable.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.Http.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.NameResolution.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.Ping.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.Primitives.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.Requests.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.Security.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.Sockets.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.WebSockets.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.ObjectModel.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Reflection.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Resources.Reader.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Resources.Writer.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.Handles.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Security.Claims.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Security.Principal.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Security.SecureString.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Text.Encoding.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Threading.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Threading.Tasks.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Threading.Thread.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Threading.Timer.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.ValueTuple.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Xml.XDocument.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Xml.XPath.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\MongoDB.Bson.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\MongoDB.Driver.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\MongoDB.Driver.GridFS.dll
+C:\Users\roxzy\Desktop\coffeeSofDevFinish\Coffee\bin\Debug\MongoDB.Driver.Legacy.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\Coffee.exe.config
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\Coffee.exe
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\Coffee.pdb
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\netstandard.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.AppContext.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Collections.Concurrent.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Collections.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Collections.NonGeneric.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Collections.Specialized.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.ComponentModel.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.ComponentModel.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Console.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Data.Common.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.Contracts.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.Debug.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.Process.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.Tools.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Diagnostics.Tracing.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Drawing.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Dynamic.Runtime.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Globalization.Calendars.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Globalization.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Globalization.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.Compression.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.FileSystem.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.IsolatedStorage.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.Pipes.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Linq.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Linq.Expressions.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Linq.Parallel.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Linq.Queryable.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.Http.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.NameResolution.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.NetworkInformation.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.Ping.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.Requests.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.Security.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.Sockets.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.WebSockets.Client.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Net.WebSockets.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.ObjectModel.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Reflection.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Reflection.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Reflection.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Resources.Reader.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Resources.ResourceManager.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Resources.Writer.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.Handles.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.InteropServices.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.Numerics.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Security.Claims.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Security.Principal.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Security.SecureString.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Text.Encoding.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Text.RegularExpressions.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Threading.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Threading.Overlapped.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Threading.Tasks.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Threading.Thread.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Threading.ThreadPool.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Threading.Timer.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.ValueTuple.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Xml.ReaderWriter.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Xml.XDocument.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Xml.XmlDocument.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Xml.XmlSerializer.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Xml.XPath.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\MongoDB.Bson.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\MongoDB.Driver.Core.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\MongoDB.Driver.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\MongoDB.Driver.GridFS.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\bin\Debug\MongoDB.Driver.Legacy.dll
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.exe.config
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.FormMain.resources
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.FormPayment.resources
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.FormPromotions.resources
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.FormRegister.resources
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.FormShop.resources
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.exe
+E:\ปี3\Softdef\coffeeSofDevFinish\Coffee\obj\Debug\Coffee.pdb
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\Coffee.exe.config
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\Coffee.exe
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\Coffee.pdb
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\obj\Debug\Coffee.exe.config
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\obj\Debug\Coffee.FormMain.resources
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\obj\Debug\Coffee.FormPayment.resources
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\obj\Debug\Coffee.FormPromotion.resources
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\obj\Debug\Coffee.FormRegister.resources
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\obj\Debug\Coffee.FormShop.resources
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\obj\Debug\Coffee.exe
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\obj\Debug\Coffee.pdb
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\netstandard.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.AppContext.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Collections.Concurrent.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Collections.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Collections.NonGeneric.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Collections.Specialized.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.ComponentModel.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Console.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Data.Common.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Diagnostics.Debug.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Diagnostics.Process.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Diagnostics.Tools.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Drawing.Primitives.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Dynamic.Runtime.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Globalization.Calendars.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Globalization.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Globalization.Extensions.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.IO.Compression.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.IO.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.IO.FileSystem.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.IO.Pipes.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Linq.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Linq.Expressions.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Linq.Parallel.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Linq.Queryable.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Net.Http.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Net.NameResolution.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Net.NetworkInformation.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Net.Ping.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Net.Primitives.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Net.Requests.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Net.Security.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Net.Sockets.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Net.WebSockets.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.ObjectModel.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Reflection.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Reflection.Extensions.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Reflection.Primitives.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Resources.Reader.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Resources.ResourceManager.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Resources.Writer.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Runtime.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Runtime.Extensions.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Runtime.Handles.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Runtime.InteropServices.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Runtime.Numerics.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Security.Claims.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Security.Principal.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Security.SecureString.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Text.Encoding.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Text.RegularExpressions.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Threading.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Threading.Overlapped.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Threading.Tasks.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Threading.Thread.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Threading.ThreadPool.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Threading.Timer.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.ValueTuple.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Xml.XDocument.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Xml.XmlDocument.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Xml.XPath.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\MongoDB.Bson.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\MongoDB.Driver.Core.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\MongoDB.Driver.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\MongoDB.Driver.GridFS.dll
+D:\Downloads\coffeeSofDevFinish v.2\Coffee\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\Coffee.exe.config
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\Coffee.exe
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\Coffee.pdb
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\netstandard.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.AppContext.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Collections.Concurrent.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Collections.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Collections.NonGeneric.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Collections.Specialized.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.ComponentModel.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Console.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Data.Common.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Diagnostics.Debug.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Diagnostics.Process.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Diagnostics.Tools.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Drawing.Primitives.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Dynamic.Runtime.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Globalization.Calendars.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Globalization.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Globalization.Extensions.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.IO.Compression.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.IO.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.IO.FileSystem.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.IO.Pipes.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Linq.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Linq.Expressions.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Linq.Parallel.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Linq.Queryable.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Net.Http.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Net.NameResolution.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Net.NetworkInformation.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Net.Ping.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Net.Primitives.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Net.Requests.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Net.Security.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Net.Sockets.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Net.WebSockets.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.ObjectModel.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Reflection.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Reflection.Extensions.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Reflection.Primitives.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Resources.Reader.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Resources.ResourceManager.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Resources.Writer.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Runtime.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Runtime.Extensions.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Runtime.Handles.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Runtime.InteropServices.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Runtime.Numerics.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Security.Claims.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Security.Principal.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Security.SecureString.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Text.Encoding.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Text.RegularExpressions.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Threading.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Threading.Overlapped.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Threading.Tasks.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Threading.Thread.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Threading.ThreadPool.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Threading.Timer.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.ValueTuple.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Xml.XDocument.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Xml.XmlDocument.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Xml.XPath.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\MongoDB.Bson.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\MongoDB.Driver.Core.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\MongoDB.Driver.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\MongoDB.Driver.GridFS.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\obj\Debug\Coffee.exe.config
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\obj\Debug\Coffee.FormMain.resources
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\obj\Debug\Coffee.FormPayment.resources
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\obj\Debug\Coffee.FormPromotion.resources
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\obj\Debug\Coffee.FormRegister.resources
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\obj\Debug\Coffee.FormShop.resources
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\obj\Debug\Coffee.csproj.CopyComplete
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\obj\Debug\Coffee.exe
+D:\Downloads\coffeeSofDevFinish v.2.1\Coffee\obj\Debug\Coffee.pdb
